@@ -24,7 +24,7 @@ facebook:
   app_id: # Facebook app ID for Facebook insights
   publisher: # Facebook page URL or ID of the publishing entity
   admins: # Facebook user ID for domain insights linked to a personal account
-logo: /assets/img/logo.jpg
+logo: assets\img\AH_logo_head.png
 social:
   links: #List your social links here
     - https://twitter.com/PandaSekh
@@ -42,6 +42,8 @@ lang: en_US
 kramdown:
   input:          GFM
   syntax_highlighter: rouge
+  hard_wrap: true
+
 
   syntax_highlighter_opts:
     css_class: 'highlight'

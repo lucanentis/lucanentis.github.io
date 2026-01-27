@@ -1,6 +1,7 @@
 //Colors
 $base: #a2a2a2;
 $light-grey: #ebebeb;
+$dark-grey: #1D2021;
 
 * {
   -webkit-box-sizing: border-box;
@@ -19,6 +20,9 @@ html{
 .task-list{
   list-style: none;
 }
+
+/*body { background-color: #111111 }*/
+
 
 //Alerts
 .alert{
