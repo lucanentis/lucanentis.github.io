@@ -20,7 +20,7 @@
 
 .continue-reading{
     a{
-        color: $base;
+        color: var(--fg-strong);
         text-decoration: none;
         font-style: italic;
         font-size: 0.96rem;
@@ -32,5 +32,5 @@
 
 .post-info{
     font-size: 1rem;
-    color: $base;
+    color: var(--fg-strong);
 }

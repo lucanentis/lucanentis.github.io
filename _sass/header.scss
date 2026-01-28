@@ -14,17 +14,19 @@ $reddit: #ff4500;
 header{
     margin-left: auto;
     margin-right: auto;
-    width: 550px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 450px;
     overflow: hidden;
-  
+    position: relative;
     #site_title{
         text-align: center;
-        color: black;
+        color: var(--fg-strong);
         a{
             text-decoration: none;
         }
         h1{
-            margin-bottom: 0px;
+            margin-bottom: 10px;
         }
         h2{
             margin-top: 0px;
@@ -32,6 +34,15 @@ header{
             font-size: 1.2rem;
         }
     }
+    #site_title img {
+        filter: invert(6%)
+        sepia(18%)
+        saturate(120%)
+        hue-rotate(8deg)
+        brightness(103%)
+        contrast(97%);
+    }
+
     #subheader{
         display: block;
         margin-top: 15px;
@@ -43,7 +54,7 @@ header{
                 }
                 a{
                     text-decoration: none;
-                    color: $base; 
+                    color: var(--fg-strong); 
                     margin-right: 3px;
                     font-size: 1.05rem;
                 }
@@ -60,7 +71,7 @@ header{
                     transition: .5s;
                 }
                 a{
-                    color: $base;
+                    color: var(--fg-strong);
                 }
                 i{
                     font-size: 1.1rem;
