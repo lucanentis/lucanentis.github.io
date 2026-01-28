@@ -10,15 +10,7 @@ I record, design, implement and systemize sounds for video games.
 ---
 
 <div style="text-align:center; margin:2rem 0;">
-    <iframe
-    max_width="750"
-    height="450"
-    src="https://youtu.be/-rs4fvMi7Tk"
-    title="YouTube video player"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
-    </iframe>
+    <iframe width="750" height="422" src="https://www.youtube.com/embed/-rs4fvMi7Tk?si=KhCYwAH1YufUOXJT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ---
