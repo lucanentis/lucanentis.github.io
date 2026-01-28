@@ -20,17 +20,17 @@ I record, design, implement and systemize sounds for video games.
 ---
 
 <p class="justify">
-⚡Rapid with REAPER.
+⚡&hairsp;Rapid with REAPER.
 </p>
 
 <p class="justify">
-🛠️Experienced with top tier industry tools, both software and hardware.
+🛠️&hairsp;Experienced with top tier industry tools, both software and hardware.
 </p>
 
 ---
 
 <p class="justify">
-⚙️Currently involved in:
+⚙️&hairsp;Currently involved in:
 </p>
 
 - [Steel Aces](https://steelaces.com/)
