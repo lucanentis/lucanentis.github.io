@@ -28,3 +28,13 @@ Currently involved in:
 \[NDA]
 
 \[NDA]
+
+---
+
+Contact me at [studio@audiohuta.com](mailto:studio@audiohuta.com).
+
+---
+
+Get some sounds from me: [Gumroad](https://audiohuta.gumroad.com/)
+
+---

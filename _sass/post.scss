@@ -25,8 +25,8 @@ img{
     p, li{
         a{
           text-decoration:none;
-          border-bottom: 2px solid var(--fg-muted);
-          box-shadow: inset 0 -4px 0 var(--fg-muted);
+          border-bottom: 1px solid var(--fg-muted);
+          box-shadow: inset 0 -4px 0 var(--bg-alt);
           color: inherit;
           transition: background 0.1s cubic-bezier(.33,.66,.66,1);
         }
@@ -50,20 +50,20 @@ img{
     }
     a{
         text-decoration:none;
-        border-bottom: 2px solid var(--fg-muted);
-        box-shadow: inset 0 -4px 0 var(--fg-muted);
+        border-bottom: 1px solid var(--fg-muted);
+        box-shadow: inset 0 -4px 0 var(--bg-alt);
         color: inherit;
         transition: background 0.1s cubic-bezier(.33,.66,.66,1);
       }
       a:visited{
           text-decoration:none;
-          border-bottom: 2px solid var(--fg-muted);
-          box-shadow: inset 0 -4px 0 var(--fg-muted);
+          border-bottom: 1px solid var(--fg-muted);
+          box-shadow: inset 0 -4px 0 var(--bg-alt);
           color: inherit;
           transition: background 0.1s cubic-bezier(.33,.66,.66,1);
       }
       a:hover{
-        background: var(--fg-muted);
+        background: var(--bg-alt);
       }
 }
 
@@ -73,6 +73,6 @@ article::after{
     width: 5rem;
     height: 1px;
     margin: 30px auto;
-    background-color: #d5d5d5;
+    background-color: var(--bg-alt);
 }
 
