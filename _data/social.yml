@@ -3,6 +3,6 @@
 
 
 social:
-  - {icon: 'linkedin', type: "brand", link: 'https://www.linkedin.com/in/lukasz-rudzinski/'}
+  - {icon: 'linkedin', type: "solid", link: 'https://www.linkedin.com/in/lukasz-rudzinski/'}
   
   - {icon: 'envelope', type: "solid", link: 'mailto:studio@audiohuta.com'}

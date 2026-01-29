@@ -2,6 +2,7 @@
 layout: page
 title: Home
 ---
+---
 
 <p class="justify">
 Audio Huta is an audio workshop led by Łukasz Rudziński.
@@ -41,7 +42,9 @@ I record, design, implement and systemize sounds for video games.
 
 ---
 
-Contact:
+<p class="justify">
+🤝&hairsp;Contact:
+</p>
 - <i class="fas fa-envelope"></i> [studio@audiohuta.com](mailto:studio@audiohuta.com)  
 
 - <i class="fab fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/lukasz-rudzinski/)
@@ -50,6 +53,8 @@ Contact:
 
 ---
 
-Get some sounds: [Gumroad](https://audiohuta.gumroad.com/)
+<p class="justify">
+📼&hairsp;<a href="https://audiohuta.gumroad.com/">Get some sounds</a>
+</p>
 
 ---

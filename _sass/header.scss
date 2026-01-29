@@ -15,7 +15,7 @@ header{
     margin-left: auto;
     margin-right: auto;
     margin-top: 50px;
-    margin-bottom: 25px;
+    margin-bottom: 0px;
     width: 450px;
     overflow: hidden;
     position: relative;
@@ -100,9 +100,6 @@ header{
                 }
                 #reddit:hover{
                     color: $reddit;
-                }
-                #gumroad:hover{
-                    color: rgb(252, 133, 240);
                 }
             }
         }
