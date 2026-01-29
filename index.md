@@ -43,7 +43,7 @@ I record, design, implement and systemize sounds for video games.
 ---
 
 <p class="justify">
-🤝&hairsp;Contact:
+👋&hairsp;Contact:
 </p>
 - <i class="fas fa-envelope"></i> [studio@audiohuta.com](mailto:studio@audiohuta.com)  
 
