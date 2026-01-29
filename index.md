@@ -41,7 +41,12 @@ I record, design, implement and systemize sounds for video games.
 
 ---
 
-Contact: [studio@audiohuta.com](mailto:studio@audiohuta.com).
+Contact:
+- <i class="fas fa-envelope"></i> [studio@audiohuta.com](mailto:studio@audiohuta.com)  
+
+- <i class="fab fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/lukasz-rudzinski/)
+
+
 
 ---
 
