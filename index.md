@@ -36,9 +36,9 @@ I record, design, implement and systemize sounds for video games.
 
 - [Steel Aces](https://steelaces.com/)
 
-- \[NDA]
+- \[TBA]
 
-- \[NDA]
+- \[TBA]
 
 ---
 
