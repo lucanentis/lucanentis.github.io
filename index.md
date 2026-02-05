@@ -34,7 +34,7 @@ I record, design, implement and systemize sounds for video games.
 ⚙️&hairsp;Currently involved in:
 </p>
 
-- \[Flying Wild Hog](https://flyingwildhog.com/) - Sound Librarian
+- [Flying Wild Hog](https://flyingwildhog.com/) - Sound Librarian
 
 - [Steel Aces](https://steelaces.com/) - Sound Designer
 
